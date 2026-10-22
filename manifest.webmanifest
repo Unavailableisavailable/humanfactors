@@ -1,0 +1,14 @@
+{
+  "name": "촉각 알림 이중과업 실험",
+  "short_name": "촉각 실험",
+  "lang": "ko-KR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "icons": [
+    {"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ],
+  "background_color": "#101820",
+  "theme_color": "#101820",
+  "description": "보행과 인지 부하에 따른 스마트폰 진동 알림 식별 실험"
+}
